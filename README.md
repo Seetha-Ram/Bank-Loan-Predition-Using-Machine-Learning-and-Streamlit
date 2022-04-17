@@ -1,0 +1,2 @@
+# Bank-Loan-Predition-Using-Machine-Learning-and-Streamlit
+We are going to solve the Loan Approval Prediction . This is a classification problem in which we need to classify whether the loan will be approved or not. classification refers to a predictive modeling problem where a class label is predicted for a given example of input data. A few examples of classification problems are Spam Email detection, Cancer detection, Sentiment Analysis, etc.
